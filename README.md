@@ -22,19 +22,19 @@ CNN-based lung cancer prediction model holds the promise of not only
 transforming individual patient outcomes but also shaping a more responsive and 
 personalized landscape in the realm of public health.
 
-Techniques Used :
-➢ Convolutional Neural Networks (CNN)
-➢ Deep Learning Frameworks (e.g., TensorFlow, PyTorch)
-➢ Python Programming Language
-➢ Image Processing Libraries (e.g., OpenCV, PIL)
-➢ GPU Acceleration (e.g., CUDA, NVIDIA GPUs)
-➢ Data Visualization Tools (e.g., Matplotlib, Seaborn)
-➢ Version Control Systems (e.g., Git)
-➢ Cloud Computing Services (e.g., AWS, Google Cloud, Azure)
-➢ Model Deployment Frameworks (e.g., Flask, Django, FastAPI)
+Techniques Used :<br>
+➢ Convolutional Neural Networks (CNN)<br>
+➢ Deep Learning Frameworks (e.g., TensorFlow, PyTorch)<br>
+➢ Python Programming Language<br>
+➢ Image Processing Libraries (e.g., OpenCV, PIL)<br>
+➢ GPU Acceleration (e.g., CUDA, NVIDIA GPUs)<br>
+➢ Data Visualization Tools (e.g., Matplotlib, Seaborn)<br>
+➢ Version Control Systems (e.g., Git)<br>
+➢ Cloud Computing Services (e.g., AWS, Google Cloud, Azure)<br>
+➢ Model Deployment Frameworks (e.g., Flask, Django, FastAPI)<br>
 <br>
-<b>Images</b>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
+<b>Images</b><br>
+<img src="https://raw.githubusercontent.com/ritheshjaston/lung_cancer_prediction_using_CNN/main/web%20app/p1.png"/>
+<img src="https://raw.githubusercontent.com/ritheshjaston/lung_cancer_prediction_using_CNN/main/web%20app/p2.png"/>
+<img src="https://raw.githubusercontent.com/ritheshjaston/lung_cancer_prediction_using_CNN/main/web%20app/p3.jpg"/>
+<img src="https://raw.githubusercontent.com/ritheshjaston/lung_cancer_prediction_using_CNN/main/web%20app/p4.jpg"/>
