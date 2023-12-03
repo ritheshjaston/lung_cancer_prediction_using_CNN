@@ -22,6 +22,17 @@ CNN-based lung cancer prediction model holds the promise of not only
 transforming individual patient outcomes but also shaping a more responsive and 
 personalized landscape in the realm of public health.
 
+<br>
+model.h5 Download 🔗 <br>
+
+```js
+https://drive.google.com/file/d/1LJ-zjPY1DkKaka09biOhqNkpLEVQqt_l/view?usp=drive_link
+```
+
+[support]: https://caniuse.com/#feat=custom-elementsv1
+[polyfill]: https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements
+
+
 Techniques Used :<br>
 ➢ Convolutional Neural Networks (CNN)<br>
 ➢ Deep Learning Frameworks (e.g., TensorFlow, PyTorch)<br>
